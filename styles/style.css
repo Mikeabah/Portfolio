@@ -97,7 +97,7 @@ ul {
   padding-top: 2rem;
   background: linear-gradient(to left, #38d39f, #38a4d3);
   -webkit-background-clip: text;
-          background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   display: inline-block;
 }
@@ -326,4 +326,4 @@ footer h4 {
     padding: 0%;
     width: 100%;
   }
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
